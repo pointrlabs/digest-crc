@@ -25,4 +25,4 @@ development_dependencies:
   bundler: ~> 2.0
 
 dependencies:
-  rake: ~> 13.0
+  rake:
